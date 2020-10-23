@@ -1,0 +1,25 @@
+body, html { 
+    height: 100%;
+  }
+.background{
+    background-image: url(pictures/landing.jpeg);
+    height: 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.land-page{
+    padding-top: 18%;
+}
+.name{
+    font-size: 100px;
+    color: rgb(186, 74, 84);
+}
+.social a{
+    font-size: 50px;
+    padding: 15px;
+}
+.fab-twitter{
+    color: #007bff;
+}
