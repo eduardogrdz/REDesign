@@ -27,11 +27,31 @@ body, html {
 .fab-twitter{
     color: #007bff;
 }
-
+a:hover{
+    text-decoration: none;
+}
 .foot{
     padding-top: 10px;
 }
 
 .rowspace{
     padding: 15px;
+}
+
+
+/* ABOUT PAGE*/
+.parallax {
+    background-image: url("pictures/white-banner.PNG");
+    min-height: 300px; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+hr{
+    border-top: 2px solid black;
+    width: 44%;
+    margin-bottom: 1rem;
+    margin-top: -.3rem
 }
