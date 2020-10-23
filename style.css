@@ -1,5 +1,6 @@
 body, html { 
     height: 100%;
+    font-family: 'Oswald', sans-serif;
   }
 .background{
     background-image: url(pictures/landing.jpeg);
@@ -14,7 +15,10 @@ body, html {
 }
 .name{
     font-size: 100px;
-    color: rgb(186, 74, 84);
+    color: rgb(199, 59, 71);
+}
+.backtext{
+    color: white;
 }
 .social a{
     font-size: 50px;
@@ -22,4 +26,12 @@ body, html {
 }
 .fab-twitter{
     color: #007bff;
+}
+
+.foot{
+    padding-top: 10px;
+}
+
+.rowspace{
+    padding: 15px;
 }
