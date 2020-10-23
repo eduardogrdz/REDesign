@@ -9,7 +9,9 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+.navbar{
+    font-size: 25px;
+}
 .land-page{
     padding-top: 18%;
 }
